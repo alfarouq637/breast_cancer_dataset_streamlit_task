@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-An interactive web application built with **Streamlit** and **Scikit-Learn** that analyzes, visualizes, and classifies tumor features from the Wisconsin Breast Cancer dataset as either **Benign (حميد)** or **Malignant (خبيث)** using Machine Learning.
+An interactive web application built with **Streamlit** and **Scikit-Learn** that analyzes, visualizes, and classifies tumor features from the Wisconsin Breast Cancer dataset as either **Benign** or **Malignant** using Machine Learning.
 
 ---
 
