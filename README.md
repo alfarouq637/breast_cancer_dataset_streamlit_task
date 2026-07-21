@@ -5,12 +5,12 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 An interactive web application built with **Streamlit** and **Scikit-Learn** that analyzes, visualizes, and classifies tumor features from the Wisconsin Breast Cancer dataset as either **Benign** or **Malignant** using Machine Learning.
-
+this task assigned for NTI Internship
 ---
 
 ## 🌐 Live Demo
 
-👉 **[Click here to try the Live Application](YOUR_DEPLOYMENT_LINK_HERE)** 👈
+👉 **[Click here to try the Live Application](https://breastcancerdatasetapptask-alfarouq-ibrahim.streamlit.app)** 👈
 *(Note: Replace YOUR_DEPLOYMENT_LINK_HERE with your Streamlit Community Cloud URL)*
 
 ---
